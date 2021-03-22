@@ -1,0 +1,188 @@
+/*Title Section*/
+
+.title {
+    font-family: "Montserrat", sans-serif;
+    font-size: 3 rem;
+    line-height: 1.5;
+    font-weight: 900;
+}
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+
+/*Navbar*/
+
+.navbar {
+    padding: 0% 15% 0 15%;
+}
+
+.nav-item {
+    padding: 0 18px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 300;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+}
+
+.row {
+    padding: 4.5rem 15% 0 15%;
+}
+
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2.5rem !important;
+}
+
+.download-button {
+    margin: 5% 3% 0 5%;
+}
+
+.title-image {
+    width: 60%;
+    transform: rotate(25deg);
+}
+
+
+/*Feature Section*/
+
+#features {
+    position: relative;
+    text-align: center;
+    background-color: white;
+}
+
+.features {
+    font-size: 1.5rem;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+}
+
+.feature-box {
+    padding: 10% 15% 15% 15%;
+}
+
+p {
+    color: #8f8f8f;
+    font-family: "Montserrat", sans-serif;
+    line-height: 1.5;
+    font-size: 1.25rem;
+}
+
+.icon:hover {
+    color: #ff4c68;
+}
+
+
+/* Testimonial Section*/
+
+#testimonials {
+    text-align: center;
+    background-color: #ef8172;
+    color: #ffffff;
+    font-family: "Montserrat", sans-serif;
+}
+
+.testi {
+    font-size: 2.7rem;
+    line-height: 1.5;
+    font-weight: 600;
+}
+
+.testi-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+
+/* Press Section*/
+
+#press {
+    text-align: center;
+    background-color: #ef8172;
+    padding-bottom: 3%;
+}
+
+.press {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+
+/*Pricing Section*/
+
+#pricing {
+    padding: 100px;
+    text-align: center;
+}
+
+.price {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 900;
+    font-size: 3rem;
+}
+
+.plans {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 900;
+}
+
+.cards {
+    text-align: center;
+    padding: 5%;
+}
+
+
+/*Social Section*/
+
+#lasts {
+    text-align: center;
+    padding: 7% 15%;
+}
+
+.last {
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 900;
+    font-size: 40px;
+}
+
+footer {
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.social-icons {
+    margin: 20px 10px;
+    color: black;
+    text-decoration: none;
+}
+
+.social-icons:hover {
+    color: #ef8172;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+/* Sections */
+
+.colored-section {
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+.white-section {
+    background-color: white;
+}
